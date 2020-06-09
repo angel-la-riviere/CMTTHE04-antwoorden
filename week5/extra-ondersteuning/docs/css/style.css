@@ -1,0 +1,12 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+
+alien{
+    background-image: url("../img/shipBlue_manned.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 124px;
+    height: 154px;
+    display: block;
+
+    border: 1px solid #ff0000;
+}
