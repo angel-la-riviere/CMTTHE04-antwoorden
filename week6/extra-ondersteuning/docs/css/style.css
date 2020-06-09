@@ -1,0 +1,23 @@
+alien{
+    background-image: url("../img/shipBlue_manned.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 124px;
+    height: 154px;
+    display: inline-block;
+
+    border: 1px solid #ff0000;
+}
+
+special{
+    background-image: url("../img/shipBlue_manned.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 124px;
+    height: 154px;
+    display: inline-block;
+
+    border: 1px solid #00FF00;
+    
+    filter: grayscale(100%);
+}
